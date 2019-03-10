@@ -21,4 +21,5 @@ dependencies {
     testCompile group: 'io.rest-assured', name: 'rest-assured', version: '3.3.0'
     providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    runtime 'org.hsqldb:hsqldb:2.4.0'
 }

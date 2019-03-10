@@ -4,7 +4,7 @@ package org.ceneval.examen.erp.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "cliente")
+@Table(name = "[cliente]")
 public class Client {
 
     @Id
